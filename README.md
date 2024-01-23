@@ -1,6 +1,6 @@
 <html>
   <body>
-    <h2>### Hi there 👋</h2>
+    <h2 Hey there 👋</h2>
     <b>
         Amirreza Najari | Front-end developer (React JS / Next JS)
     </b>
